@@ -20,7 +20,6 @@ Start setoolkit:
 Execute the following command to initiate setoolkit:
 
 setoolkit
-Select Attack Type:![WhatsApp Image 2023-12-02 at 11 12 53](https://github.com/luisbrasiliano21/luis-desasio-dio-phishing/assets/113181047/39501662-9793-4e76-b6f3-4fc519062a3b)
 
 
 Choose "Social-Engineering Attacks."
@@ -37,3 +36,4 @@ Select "Site Cloner."
 
 Resultados
 
+![WhatsApp Image 2023-12-02 at 11 27 30](https://github.com/luisbrasiliano21/luis-desasio-dio-phishing/assets/113181047/bed5b761-99bb-4ed6-9bac-fbe87c52b094)
